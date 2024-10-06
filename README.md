@@ -3,9 +3,8 @@
 I studied Mathematics and Real Estate at Konkuk University 🎓
 
 I am interested in SwiftUI and iOS 🍎
-
 <!--
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiniii)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :computer: Tech
 iOS
