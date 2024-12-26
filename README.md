@@ -1,9 +1,36 @@
 ### Hi I'm Anjin 👋
 
+**안녕하세요 이안진, 이오입니다 🐧**
+
 I studied Mathematics and Real Estate at Konkuk University 🎓
 
 I am interested in SwiftUI and iOS 🍎
 <!--
+<br><br>
+
+## 🐥 Experiences
+
+### Apple Developer Academy @ POSTECH
+`2024.03.04. - 12.13. [9개월]`
+
+- Challenges
+  - NC1 Diory 다이오리: 이오의 다이어리
+  - MC2 PlanIO: 중학생을 위한 과학 시험 계획
+  - NC2 PDFEraser: PDF 문서에서 특정 문구 지우기
+  - MC3 Furdii: 싫증난 가구의 애정을 담은 카드 만들기
+  - Macro 소비짹: 해외여행에서 살까 말까 고민될 때,
+
+- Activities
+  - 스터디 이오의 이오이오
+  - Academy Tech Forum Maintainer
+  - 
+
+### KUIT iOS 파트장
+
+
+### 
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjiniii)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :computer: Tech
