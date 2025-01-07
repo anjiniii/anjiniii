@@ -10,7 +10,6 @@ I am interested in SwiftUI and iOS 🍎
 ## Projects 📚
 **(Apple Developer Academy @ POSTECH)**
 - 💸 [**소비짹**](https://github.com/DeveloperAcademy-POSTECH/2024-MacC-A10-Akdong-Cookiez): 해외여행에서 살까 말까 고민될 때 `MacC`
-
 - 🪑 [**Furdii**](https://github.com/DeveloperAcademy-POSTECH/2024-MC3-A01-WBIJI): 싫증난 가구의 애정을 담은 카드 만들기 `MC3`
 - **PDFEraser**: PDF 문서에서 특정 문구 지우기 `NC2`
 - **PlanIO**: 중학생을 위한 과학 시험 계획 `MC2`
@@ -18,18 +17,15 @@ I am interested in SwiftUI and iOS 🍎
 
 **(Team Projects)**
 - 🍀 **MADII 마디**: 바쁜 일상 속, 행복을 발견하는 기록 서비스 `2023.08 - 진행중`
-
 - 🐶 **ConnectDog 코넥독**: 유기견 이동봉사 매칭 플랫폼 `2024.07 - 진행중`
 - 🕑 **CoNet 커넷**: 모임 약속 시간 정하기 `2023.07 - 2024.09`
 <br><br>
 
 ## Experiences ✈️
 - **Apple Developer Academy @ POSTECH** 3기 수료 `2024.03. - 2024.12.`
-  
 - **KUIT - 건국대학교 IT 개발 동아리**
   - 3기 iOS 파트장 (10주 iOS 강의 제작 및 교육) `2024.03. - 2024.06.`
   - 1기 iOS 스터디장, PM (10주 iOS 스터디장 + 8주 프로젝트 PM) `2023.03. - 2023.08.`
- 
 - **KUSITMS 27기 iOS** `2023.02. - 2023.05.`
 
 
