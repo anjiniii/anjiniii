@@ -2,8 +2,7 @@
 
 **안녕하세요 이안진, 이오입니다 🐧**
 
-I studied Mathematics and Real Estate at Konkuk University 🎓
-
+I studied Mathematics and Real Estate at Konkuk University 🎓<br>
 I am interested in SwiftUI and iOS 🍎
 <br><br>
 
