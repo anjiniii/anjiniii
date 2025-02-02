@@ -25,7 +25,9 @@ I am interested in SwiftUI and iOS 🍎
 - **KUIT - 건국대학교 IT 개발 동아리**
   - 3기 iOS 파트장 (10주 iOS 강의 제작 및 교육) `2024.03. - 2024.06.`
   - 1기 iOS 스터디장, PM (10주 iOS 스터디장 + 8주 프로젝트 PM) `2023.03. - 2023.08.`
+    - 프로젝트 CoNet 최우수상 수상
 - **KUSITMS 27기 iOS** `2023.02. - 2023.05.`
+  - 프로젝트 SeeSaw 최우수상 수상
 
 
 
