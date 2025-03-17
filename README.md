@@ -15,7 +15,7 @@ I am interested in SwiftUI and iOS 🍎
 - 🐥 [**Diory 다이오리**](https://github.com/anjiniii/NC1-Diory): 이오의 다이어리 `NC1`
 
 **(Team Projects)**
-- 🍀 **MADII 마디**: 바쁜 일상 속, 행복을 발견하는 기록 서비스 `2023.08 - 진행중`
+- 🍀 [**MADII 마디**](https://github.com/9uttery/MADII-iOS): 바쁜 일상 속, 행복을 발견하는 기록 서비스 `2023.08 - 진행중`
 - 👀 [**COMIE 컴피**](https://github.com/HorangITBeanS/COMFIE-iOS) `호랑이티비ㄴ스`
 - 🐶 **ConnectDog 코넥독**: 유기견 이동봉사 매칭 플랫폼 `2024.07 - 진행중`
 - 🕑 **CoNet 커넷**: 모임 약속 시간 정하기 `2023.07 - 2024.09`
