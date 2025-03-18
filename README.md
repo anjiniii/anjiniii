@@ -7,18 +7,18 @@ I am interested in SwiftUI and iOS 🍎
 <br><br>
 
 ## Projects 📚
+**(Team Projects)**
+- 🍀 [**MADII 마디**](https://github.com/9uttery/MADII-iOS): 바쁜 일상 속, 행복을 발견하는 기록 서비스 `2023.08 - 진행중`
+- 👀 [**COMFIE 컴피**](https://github.com/HorangITBeanS/COMFIE-iOS): `2024.02 - 진행중`
+- 🐶 **ConnectDog 코넥독**: 유기견 이동봉사 매칭 플랫폼 `2024.07 - 진행중`
+- 🕑 **CoNet 커넷**: 모임 약속 시간 정하기 `2023.07 - 2024.09`
+
 **(Apple Developer Academy @ POSTECH)**
 - 💸 [**소비짹**](https://github.com/DeveloperAcademy-POSTECH/2024-MacC-A10-Akdong-Cookiez): 해외여행에서 살까 말까 고민될 때 `MacC`
 - 🪑 [**Furdii**](https://github.com/DeveloperAcademy-POSTECH/2024-MC3-A01-WBIJI): 싫증난 가구의 애정을 담은 카드 만들기 `MC3`
 - **PDFEraser**: PDF 문서에서 특정 문구 지우기 `NC2`
 - **PlanIO**: 중학생을 위한 과학 시험 계획 `MC2`
 - 🐥 [**Diory 다이오리**](https://github.com/anjiniii/NC1-Diory): 이오의 다이어리 `NC1`
-
-**(Team Projects)**
-- 🍀 [**MADII 마디**](https://github.com/9uttery/MADII-iOS): 바쁜 일상 속, 행복을 발견하는 기록 서비스 `2023.08 - 진행중`
-- 👀 [**COMIE 컴피**](https://github.com/HorangITBeanS/COMFIE-iOS) `호랑이티비ㄴ스`
-- 🐶 **ConnectDog 코넥독**: 유기견 이동봉사 매칭 플랫폼 `2024.07 - 진행중`
-- 🕑 **CoNet 커넷**: 모임 약속 시간 정하기 `2023.07 - 2024.09`
 <br><br>
 
 ## Experiences ✈️
